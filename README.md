@@ -57,10 +57,10 @@ The project uses:
 ## 🖼 Dashboard & Model Screenshots
 
 ### Power BI Dashboard Overview
-![Power BI Dashboard](Screenshots/dashboard_overview.png)
+![Power BI Dashboard](Screenshots/regression_model_ss.png)
 
 ### Machine Learning – Regression Prediction
-![ML Regression Model](Screenshots/ml_prediction.png)
+![ML Regression Model](Screenshots/AirQuality_Dashboard_ss.png)
 
 ### Interactive Filters View
 ![Filters View](Screenshots/filters_view.png)
